@@ -275,3 +275,18 @@ position: absolute; right: -3px; top:6px;
 #footer .sns a { padding:0 3px }
 
 .gotop { position: fixed; right:30px; bottom:20px;  }
+
+#main .attachment {
+    background-image: url('https://oktobat.github.io/coco0224/img/intro_bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-position:center top; */
+    padding: 80px 0px;
+    color: #fff;
+    text-align: center;
+}
+#main .attachment h2 { color:#fff; font-size: 36px;}
+#main .attachment p { font-size: 15px; padding: 25px 0px;}
+#main .attachment a { border: 1px solid #fff; font-size: 13px;
+     display:inline-block; padding:6px 30px; transition:all 0.3s}
+#main .attachment a:hover { background-color:rgba(225,225,225,0.5);}
