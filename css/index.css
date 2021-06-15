@@ -277,6 +277,7 @@ position: absolute; right: -3px; top:6px;
 .gotop { position: fixed; right:30px; bottom:20px;  }
 
 #main .attachment {
+    background-size: cover;
     background-image: url('https://oktobat.github.io/coco0224/img/intro_bg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
